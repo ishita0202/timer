@@ -1,0 +1,21 @@
+.first{
+height: 300px;
+background-color: red;
+}
+.bdr{
+ height:20px;
+ background-color:blue;
+}
+.dbox{
+height:30px;
+ background-color:pink;
+ border: 2px solid blue;
+}
+.cbox{
+border: 3px solid;
+height:500px;
+}
+
+.arow{
+border: 10px solid yellow;
+}
